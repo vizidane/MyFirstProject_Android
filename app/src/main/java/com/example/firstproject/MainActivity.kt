@@ -67,6 +67,6 @@ fun GreedingWithText(message: String, from: String) {
 fun DefaultPreview() {
     FirstProjectTheme {
         //Greeting("Android")
-        GreedingWithText("happy birthday", "Thanh Thao")
+        GreedingWithText("happy birthday", "Vu Thanh Thao ")
     }
 }
