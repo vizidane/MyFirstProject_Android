@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FirstProject</string>
+    <string name="happy_birthday_text">chúc mừng sinh nhât</string>
+    <string name="vo_iu_cua_anh_text">VỢ IU CỦA ANH</string>
 </resources>
